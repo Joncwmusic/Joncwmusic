@@ -1,6 +1,5 @@
 - I’m @Joncwmusic
-- I’m interested in learning. Always. Growth is a continupus process
-- I’m currently learning: Python, R, C#, VBA, Javascript
+- I'm dedicated to learning and providing valuable insights that lead to impactful changes
 
 <!---
 Joncwmusic/Joncwmusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
