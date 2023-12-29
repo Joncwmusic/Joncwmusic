@@ -1,5 +1,5 @@
 - I’m @Joncwmusic
-- I'm dedicated to learning and providing valuable insights that lead to impactful changes
+I'm dedicated to learning and providing valuable insights that lead to impactful changes
 
 <!---
 Joncwmusic/Joncwmusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
