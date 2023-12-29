@@ -1,4 +1,5 @@
 - I’m @Joncwmusic
+
 I'm dedicated to learning and providing valuable insights that lead to impactful changes
 
 <!---
