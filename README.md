@@ -14,7 +14,7 @@ I am committed to continuous learning and staying concious industry trends. I ac
 
 # Skills
 
-Languages: Python, R, Java, SQL
+Languages: Python, R, C#, SQL
 
 Frameworks & Tools: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Jupyter, Git
 
