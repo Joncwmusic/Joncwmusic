@@ -14,10 +14,10 @@ I am committed to continuous learning and staying concious industry trends. I ac
 
 # Skills
 
-Languages: Python, R, C#, SQL
+Languages: Python, R, C#, SQL, VBA
 
 Frameworks & Tools: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Jupyter, Git
 
 Database Management: Expert in SQL Server and proficient with BigQuery, Redshift, and dbt
 
-Visualization: Skilled in Matplotlib, Seaborn, Looker Studio and Redash for effective data presentation.
+Visualization: Matplotlib, Seaborn, Looker Studio and Redash for data presentation and reporting (and of course excel).
