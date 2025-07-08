@@ -2,7 +2,7 @@
 I'm Jon W, a dedicated coding enthusiast and data scientist with a proven track record of leveraging technology to extract actionable insights from complex datasets.
 
 
-Proficient in the end-to-end data science process, from data wrangling and exploratory analysis to developing machine learning models for predictive analytics.
+Proficient in the end-to-end data science process, from data wrangling and exploratory analysis to developing models for predictive analytics.
 
 Experienced in multiple programming languages, including Python, R, and C#.
 
