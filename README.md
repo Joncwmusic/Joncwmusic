@@ -17,7 +17,7 @@ Built analytics pipelines to track user engagement, sales funnels, and campaign 
 
 Provided data-driven insights to inform marketing strategy and product development decisions
 
-### Data Analyst – AdTech Industry
+### Business Intelligence Analyst – AdTech Industry
 
 Developed dashboards and reporting pipelines using BigQuery, Redash, and SQL Server
 
@@ -25,7 +25,7 @@ Modeled user behavior and revenue projections across web and mobile properties
 
 Analyzed clickstream and conversion data to improve monetization strategies
 
-### Data Analyst – Consulting Firm (Call Center Operations)
+### Senior Data Analyst – Consulting Firm (Call Center Operations)
 Clients included TD Bank, New Balance, Arise, Delta Faucet
 
 Produced operational reports and agent performance dashboards using Excel and call center data platforms like Genesys
