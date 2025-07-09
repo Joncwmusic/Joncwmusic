@@ -20,11 +20,11 @@ Freelance / Contract
 
 **Business Intelligence Analyst** – AdTech Industry
 
--Developed dashboards and reporting pipelines using BigQuery, Redash, and SQL Server
+- Developed dashboards and reporting pipelines using BigQuery, Redash, and SQL Server
 
--Modeled user behavior and revenue projections across web and mobile properties
+- Modeled user behavior and revenue projections across web and mobile properties
 
--Analyzed clickstream and conversion data to improve monetization strategies
+- Analyzed clickstream and conversion data to improve monetization strategies
 
 
 **Senior Data Analyst**
@@ -32,23 +32,24 @@ Freelance / Contract
 Consulting Firm (Call Center Operations)
 Clients included TD Bank, New Balance, Arise, Delta Faucet
 
--Produced operational reports and agent performance dashboards using Excel and call center data platforms like Genesys
+- Produced operational reports and agent performance dashboards using Excel and call center data platforms like Genesys
 
--Supported client teams with custom analytics solutions to optimize staffing and customer experience
+- Supported client teams with custom analytics solutions to optimize staffing and customer experience
 
--Developed reporting workflows to support ongoing service delivery
+- Developed reporting workflows to support ongoing service delivery
 
 
 **Operations Analyst** – Small Business (Internal Process Improvement)
 
--Designed and implemented internal tools to streamline workflows and reduce manual overhead
+- Designed and implemented internal tools to streamline workflows and reduce manual overhead
 
--Focused on improving process efficiency for a small team using Excel and lightweight automation
+- Focused on improving process efficiency for a small team using Excel and lightweight automation
 
--Supported planning and client coordination through custom reporting solutions
+- Supported planning and client coordination through custom reporting solutions
 
 
 ## Skills and Tools
+
 Data Tools: SQL (BigQuery, SQL Server), Python (pandas, scikit-learn), Excel
 
 Dashboarding: Redash, Looker Studio, Streamlit
